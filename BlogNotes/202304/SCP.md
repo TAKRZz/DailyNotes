@@ -4,7 +4,7 @@
 
 *Updated May 30, 2020*
 
-
+**总结：** 很基础很简单的工具，记住下面的使用命令即可，再加上几个-p -r的选项。
 
 **SCP (secure copy) is a command-line utility that allows you to securely copy files and directories between two locations.**
 
