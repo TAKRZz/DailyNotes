@@ -14,7 +14,11 @@
 
    如何使用SCP命令安全的传输文件
 
-   [1]: ./BlogNotes/202304/SCP.md	"SCP Command Securely"
+   [SCP Command Securely](./BlogNotes/202304/SCP.md)
+
+   
+
+   [1]: 	"SCP Command Securely"
 
    
 
